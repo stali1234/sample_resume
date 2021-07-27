@@ -1,2 +1,2 @@
 # sample_resume
-Developed a sample Resume using raw html and Css
+Developed a sample Resume page using raw html and Css
